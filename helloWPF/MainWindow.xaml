@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:helloWPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel>
         <Button Content="test"/>
-    </Grid>
+        <Button Content="test2/>
+    </StackPanel>
 </Window>
